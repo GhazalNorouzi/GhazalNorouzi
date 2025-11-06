@@ -1,16 +1,25 @@
-## Hi there 👋
+# I'm Ghazal Norouzi
 
-<!--
-**GhazalNorouzi/GhazalNorouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mechanical engineer transitioning into software development.
+Currently learning Python,nBackend Development, and ROS.
+My goal is to combine my technical background with practical software skills to create efficient, real-world solutions.
 
-Here are some ideas to get you started:
+I'm learning:
+- Python fundamentals & object-oriented programming
+- REST APIs with Flask and FastAPI
+- Git / GitHub for collaboration
+- A bit of automation & robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Goals:
+- Write clean and understandable code
+- Keep learning and building
+- Join an Ausbildung program in software development
+
+
+Auf Deutsch:
+Ich bin Maschinenbauingenieurin mit großem Interesse an Softwareentwicklung.
+Zurzeit lerne ich Python, Backend Entwicklung und ROS, um mich auf eine Ausbildung als
+Ich freue mich darauf, praktische Erfahrungen in einem innovativen Unternehmen zu sammeln.
+
+Email: Norouzigazaal@gmail.com
+LinkedIn : https://www.linkedin.com/in/ghazal-norouzi-34874316a/
