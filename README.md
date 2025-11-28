@@ -1,25 +1,25 @@
-# I'm Ghazal Norouzi
+# Ich bin Ghazal Norouzi
 
-I'm a mechanical engineer transitioning into software development.
-Currently learning Python,nBackend Development, and ROS.
-My goal is to combine my technical background with practical software skills to create efficient, real-world solutions.
+Ich lerne aktuell Python, Backend-Entwicklung (Flask/FastAPI) und arbeite an eigenen Projekten, um meine praktischen Softwarekenntnisse zu vertiefen. Mein Ziel ist es, sauberen, verständlichen Code zu schreiben und kontinuierlich neue Fähigkeiten zu entwickeln, um praxisnahe Softwarelösungen zu erstellen.
 
-I'm learning:
-- Python fundamentals & object-oriented programming
-- REST APIs with Flask and FastAPI
-- Git / GitHub for collaboration
-- A bit of automation & robotics
+Meine aktuellen Lernschwerpunkte:
 
- Goals:
-- Write clean and understandable code
-- Keep learning and building
-- Join an Ausbildung program in software development
+- Python Grundlagen & objektorientierte Programmierung (OOP)
 
+- REST APIs mit Flask und FastAPI
 
-Auf Deutsch:
-Ich bin Maschinenbauingenieurin mit großem Interesse an Softwareentwicklung.
-Zurzeit lerne ich Python, Backend Entwicklung und ROS, um mich auf eine Ausbildung als
-Ich freue mich darauf, praktische Erfahrungen in einem innovativen Unternehmen zu sammeln.
+- Git / GitHub für Zusammenarbeit und Versionskontrolle
 
-Email: Norouzigazaal@gmail.com
-LinkedIn : https://www.linkedin.com/in/ghazal-norouzi-34874316a/
+- Automatisierung & Robotik (Grundlagen)
+
+Meine Ziele:
+
+- Sauberen, gut verständlichen Code schreiben
+
+- Kontinuierlich lernen und eigene Projekte entwickeln
+
+Kontakt:
+
+E-Mail: Norouzigazaal@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ghazal-norouzi-34874316a/
